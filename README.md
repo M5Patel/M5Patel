@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack MERN & Next.js projects with modern UI/UX designs<br><br>👯 I’m looking to collaborate on innovative web applications, SaaS platforms, and AI-integrated projects<br><br>🤝 I’m looking for help with advanced backend architecture, DevOps, and scalable system design<br><br>🌱 I’m currently learning Next.js, TypeScript, AI integrations, and cloud deployment<br><br>💬 Ask me about MERN Stack, React.js, Next.js, UI/UX Design, APIs, MongoDB, and modern web development<br><br>⚡ Fun fact: I love turning creative ideas into interactive and user-friendly web experiences 🚀<br>
+🔭 I’m currently working on Full-Stack MERN & Next.js projects with modern UI/UX designs<br><br>I’m looking to collaborate on innovative web applications, SaaS platforms, and AI-integrated projects<br><br>🤝 I’m looking for help with advanced backend architecture, DevOps, and scalable system design<br><br>🌱 I’m currently learning Next.js, TypeScript, AI integrations, and cloud deployment<br><br>💬 Ask me about MERN Stack, React.js, Next.js, UI/UX Design, APIs, MongoDB, and modern web development<br><br>⚡ Fun fact: I love turning creative ideas into interactive and user-friendly web experiences 🚀<br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=M5Patel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=M5Patel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=M5Patel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **M5Patel/M5Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
