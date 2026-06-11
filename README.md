@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack MERN & Next.js projects with modern UI/UX designs<br><br> I’m looking to collaborate on innovative web applications, SaaS platforms, and AI-integrated projects<br><br>🌱 I’m currently learning Next.js, TypeScript, AI integrations, and cloud deployment<br><br>💬 Ask me about MERN Stack, React.js, Next.js, UI/UX Design, APIs, MongoDB, and modern web development<br><br>⚡ Fun fact: I love turning creative ideas into interactive and user-friendly web experiences 🚀<br>
-
+🚀 **Full-Stack Developer | MERN Stack & Next.js Enthusiast**
+🔭 Currently building scalable **Full-Stack applications** using **MERN Stack**, **Next.js**, and modern UI/UX principles.
+🤝 Open to collaborating on **innovative web applications**, **SaaS products**, **AI-powered solutions**, and impactful open-source projects.
+🌱 Continuously learning and exploring **Next.js**, **TypeScript**, **AI integrations**, **Cloud Deployment**, and modern development workflows.
+💡 Ask me about **React.js**, **Next.js**, **MERN Stack**, **REST APIs**, **MongoDB**, **UI/UX Design**, and full-stack web development.
+⚡ Fun Fact: I enjoy transforming creative ideas into fast, interactive, and user-centric digital experiences that solve real-world problems.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mann-patel-581539258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannpatel5577@gmail.com) 
 
