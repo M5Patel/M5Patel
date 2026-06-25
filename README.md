@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 **Full-Stack Developer | MERN Stack & Next.js Enthusiast**
+🚀 **Full-Stack Developer |  MERN Stack & Next.js Enthusiast**
 Currently building scalable **Full-Stack applications** using **MERN Stack**, **Next.js**, and modern UI/UX principles.
 🤝 Open to collaborating on **innovative web applications**, **SaaS products**, **AI-powered solutions**, and impactful open-source projects.
 🌱 Continuously learning and exploring **Next.js**, **TypeScript**, **AI integrations**, **Cloud Deployment**, and modern development workflows.
